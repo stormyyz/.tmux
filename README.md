@@ -278,7 +278,7 @@ Once installed, `reattach-to-usernamespace` will be automatically detected.
 
 ### Using the configuration under Cygwin within Mintty
 
-** I don't recommend running this configuration with Cygwin anymore. Cygwin's
+**I don't recommend running this configuration with Cygwin anymore. Cygwin's
 fork is extremely slow and this configuration issues a lot of `run-shell`
 commands under the hood. As such, you will experience high CPU usage. As an
 alternative consider using [Mintty terminal for WSL][wsltty].**
